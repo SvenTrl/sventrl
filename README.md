@@ -4,8 +4,8 @@ I am currently a student specializing in Data Processing and Network Technology 
 
 Skills and Interests
 
-Programming Languages: C, C++
-Web Development: HTML, CSS, PHP
-Database Management: MariaDB
-Networking: TCP/IP, Network Security, Routing and Switching
-Operating Systems: Linux, Windows
+- Programming Languages: C, C++
+- Web Development: HTML, CSS, PHP
+- Database Management: MariaDB
+- Networking: TCP/IP, Network Security, Routing and Switching
+- Operating Systems: Linux, Windows
